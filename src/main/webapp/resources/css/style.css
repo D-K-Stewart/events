@@ -1,0 +1,15 @@
+
+.box{
+	font-family: arial;
+	font-size: 16px;
+	margin:0;
+	background: linear-gradient;
+	width:100px;
+}
+.search_select_box{
+	max-width: 100px;
+	margin: 80px auto;
+}
+.search_select_box select{
+	width:50%;
+}
